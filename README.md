@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I'm an Environmental Engineering graduate with hands-on experience in data analysis, KPI tracking, and reporting across industrial research projects. I enjoy bridging the gap between complex operational data and clear, actionable insights — helping teams make better, evidence-based decisions.
 
@@ -24,14 +24,7 @@ My work spans environmental and industrial research, where I've built dashboards
 
 ---
 
-## 🛠 Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Data Analysis** | Excel · Power Query |
-| **Visualization** | Power BI |
-| **Querying** | SQL |
-| **Programming** | Python |
+### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
 
 ---
 
@@ -46,13 +39,26 @@ My work spans environmental and industrial research, where I've built dashboards
 - Contributed to making the process more environmentally friendly and cost-efficient
 
 **Tools:** Excel
-
+  
 ---
 
-## 📫 Get in Touch
+## 🛠️ Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanachai-vilainate)
-- 📧 [tanachai.vilainate@gmail.com](mailto:tanachai.vilainate@gmail.com)
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
+#### Data Analysis & Visualization
+<p>
+  <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+</p>
+
+#### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+</p>
+
 
 ---
 
