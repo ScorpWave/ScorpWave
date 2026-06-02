@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanachai 👋</h1>
 
 <p align="center">
-  Environmental Engineering Graduate &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Insight-Driven Thinker
+  Environmental Engineering &nbsp;·&nbsp; Research Assistant 
 </p>
 
 <p align="center">
