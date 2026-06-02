@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanachai (ScorpWave) 👋</h1>
+<h1 align="center">Hi, I'm Tanachai 👋</h1>
 
 <p align="center">
   Environmental Engineering Graduate &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Insight-Driven Thinker
