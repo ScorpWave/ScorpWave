@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm an Environmental Engineering graduate with hands-on experience in data analysis, KPI tracking, and reporting across industrial research projects. I enjoy bridging the gap between complex operational data and clear, actionable insights — helping teams make better, evidence-based decisions.
+I'm an Environmental Engineering graduate with hands-on experience in data analysis, KPI tracking, and reporting across industrial research projects. I enjoy bridging the gap between complex operational data and clear, actionable insights helping teams make better, evidence-based decisions.
 
 My work spans environmental and industrial research, where I've built dashboards, automated reporting pipelines, and translated raw experimental data into meaningful findings.
 
