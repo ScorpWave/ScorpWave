@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanachai 👋</h1>
+<h1 align="center">Hi, I'm Tanachai Vilainate 👋</h1>
 
 <p align="center">
   Environmental Engineering &nbsp;·&nbsp; Research Assistant 
