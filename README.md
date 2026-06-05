@@ -24,7 +24,7 @@ My work spans environmental and industrial research, where I've built dashboards
 
 ---
 
-### [🏆 Check Out My Full Portfolio Website][(https://scorpwave.github.io/)]
+### [🏆 Check Out My Full Portfolio Website](https://scorpwave.github.io/)
 
 ---
 
